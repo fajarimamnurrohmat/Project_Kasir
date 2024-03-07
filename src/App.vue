@@ -6,7 +6,7 @@
         <div class="name_brand">Nama Brand</div>
       </div>
     </div>
-    <hr class="liner border border-dark border-3 opacity-75 w-75">
+    <hr class="liner border border-dark border-3 opacity-75 w-75 mx-auto">
     <div class="row">
       <div class="col">
         <div class="card">
