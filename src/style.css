@@ -89,6 +89,12 @@ button:focus-visible {
   font-weight: bold;
 }
 
+.name_brand_login{
+  font-size: 38px;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
 .liner{
   margin-top: 23px;
   margin-bottom: 100px;

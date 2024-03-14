@@ -1,9 +1,7 @@
-
-import { RouterView } from 'vue-router';
 <template>
   <div>
     <div class="row">
-      <div class="col-md-12">
+      <div class="col">
         <div class="name_welcome">Selamat Datang</div>
         <div class="name_brand">Nama Brand</div>
       </div>
